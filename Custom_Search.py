@@ -4,10 +4,6 @@ from googleapiclient.discovery import build
 from datetime import datetime, timedelta
 import re
 
-GN_API = 'AIzaSyDbkPjuqmmcAp5Xa8-IkBtQXW87beEJEQ8'
-CSE_ID = 'b1edb08f8728642a2'
-openai.api_key='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'
-
 def get_news(query, num_results=3, time_range=None):
     news_service = build('customsearch', 'v1', developerKey=GN_API)
     search_rest = {
