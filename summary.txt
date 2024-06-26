@@ -1,0 +1,821 @@
+News number:  1
+Title: Future Faculty Fellows | Computer Science | Illinois - Illinois Computer Science News
+Published: 2024-06-23 22:53:46
+Link: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vY3MuaWxsaW5vaXMuZWR1L2Fib3V0L3Bvc2l0aW9ucy9wb3N0ZG9jdG9yYWwvZnV0dXJlLWZhY3VsdHktZmVsbG93c9IBAA?oc=5
+Source: Illinois Computer Science News
+
+gpt-3.5-turbo:
+ Professor's name: Nancy M. Amato, 
+Position: Abel Bliss Professor of Engineering,
+Summary: Nancy M. Amato is the Department Head and the Abel Bliss Professor of Engineering at the University of Illinois. As part of the Future Faculty Fellows program, postdocs are matched with Illinois Computer Science faculty mentors to prepare for careers in research and teaching. 
+The program focuses on developing skills in research, mentoring, and teaching to help postdoctoral researchers achieve their professional goals.
+
+gpt-4-turbo:
+ professor's name: Nancy M. Amato
+position: Department Head and Abel Bliss Professor of Engineering
+summary: Nancy M. Amato is involved with the Future Faculty Fellows program at Illinois Computer Science, which aids postdoctoral researchers in developing their research, mentorship, and teaching skills over a two-year program. The program includes comprehensive mentoring in research, teaching, and professional skills, alongside various cohort activities and personalized development plans. The goal is to prepare participants for successful academic careers.
+
+professor's name: Mohammed El-Kebir
+position: Assistant Professor
+summary: The specific contributions or involvement of Mohammed El-Kebir in the Future Faculty Fellows program are not detailed in the article. 
+His contact information is provided, indicating his affiliation with the Thomas M. Siebel Center for Computer Science at the University of Illinois.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  2
+Title: Faculty & Staff Directory - The Seattle U Newsroom - News, stories and more
+Published: 2024-06-14 04:01:58
+Link: https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3LnNlYXR0bGV1LmVkdS9kaXJlY3Rvcnkv0gEA?oc=5
+Source: The Seattle U Newsroom - News, stories and more
+
+gpt-3.5-turbo:
+ I'm sorry but the provided article does not contain any information about a specific professor. Would you like me to extract information from 
+a different article instead?
+
+gpt-4-turbo:
+ Professor's Name: Not applicable
+Position: Not applicable
+Summary: The article from The Seattle U Newsroom does not provide specific details about any professor. It appears to be a general notification about the faculty and staff directory at Seattle University, indicating that no articles are currently displayed from a possible total of 2458. The content primarily consists of search functionality for faculty, staff, and leadership but yields no results.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  3
+Title: Illinois, Univ. of Birmingham announce 2024-2025 BRIDGE Seed Fund Recipients - University of Illinois Urbana-Champaign
+Published: 2024-05-24 07:00:00
+Link: https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vYmxvZ3MuaWxsaW5vaXMuZWR1L3ZpZXcvNjc1OC85MTA4MTgzOTfSAQA?oc=5
+Source: University of Illinois Urbana-Champaign
+
+gpt-3.5-turbo:
+ professor's name: Jonathan Ebel, position: Head of the Department of Religion, and summary: Jonathan Ebel has been teaching in the Department 
+of Religion at the University of Illinois Urbana-Champaign for the past eighteen years. He earned his Ph.D. from the Divinity School of the University of Chicago in 2004 and has authored three books, with his most recent being "From Dust They Came: Government Camps and the Religion of 
+Reform in New Deal California" (NYU 2023). He is also a Guggenheim Fellow and has served as president of the American Society of Church History.
+
+gpt-4-turbo:
+ **professor's name:** Sammer Jones
+**position:** Director for Global Relations at the University of Illinois Urbana-Champaign
+**summary:** Sammer Jones discussed the increase in applicants for the BRIDGE Seed Fund, noting a rise in diversity and disciplinary range. He 
+emphasized alignment with the university's Vision 2030 Global Strategy, which focuses on partnerships in the Global South and supporting the United Nations Sustainable Development Goals.
+
+**professor's name:** Linsday Avery
+**position:** (Position not specified, affiliated with the University of Birmingham)
+**summary:** Linsday Avery expressed optimism about the outcomes of the new cohort of BRIDGE Seed Fund recipients and reflected on the achievements from the collaboration between the University of Illinois Urbana-Champaign and the University of Birmingham, such as joint publications and workshops.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  4
+Title: Beckman Institute announces 2024 fellowship, award recipients - Beckman Institute
+Published: 2024-05-15 07:00:00
+Link: https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYmVja21hbi5pbGxpbm9pcy5lZHUvYWJvdXQvbmV3cy9hcnRpY2xlLzIwMjQvMDUvMTUvYmVja21hbi1pbnN0aXR1dGUtYW5ub3VuY2VzLTIwMjQtZmVsbG93c2hpcC1hd2FyZC1yZWNpcGllbnRz0gEA?oc=5
+Source: Beckman Institute
+
+gpt-3.5-turbo:
+ Name: Wendy Heller
+Position: Marjorie Roberts Professor in Liberal Arts and Sciences
+Summary: Wendy Heller is a professor at the Beckman Institute who conducts research in brain and cognitive science alongside Sola Adeyiga. They are working on a summer project titled "Advancing diversity in neuroimaging-based machine learning," which aims to enhance and make neuroimaging techniques more inclusive and accurate for marginalized identities in predicting mental health disorders. 
+
+gpt-4-turbo:
+ professor's name: Wendy Heller
+position: Marjorie Roberts Professor in Liberal Arts and Sciences
+summary: Wendy Heller, a Beckman researcher, guides research conducted by Sola Adeyiga, which focuses on making neuroimaging-based machine learning more inclusive. Their project aims to advance diversity within this field to improve accuracy and applicability across different communities.
+
+professor's name: Jonathan Sweedler
+position: James R. Eiszner Family Chair and professor of chemistry
+summary: Jonathan Sweedler collaborates with Aniket Joglekar on researching the neurochemistry of parenting in fish, specifically examining neuropeptides in sticklebacks to understand behavioral changes connected to parenting.
+
+professor's name: Elena Romanova
+position: Professor of Chemistry
+summary: Elena Romanova is involved in collaborative research with Aniket Joglekar, focusing on the neurochemistry of parenting in fish. The study employs mass spectrometry to explore the molecular underpinnings of parenting behavior.
+
+professor's name: Alison Bell
+position: Professor of Evolution, Ecology, and Behavior
+summary: Alison Bell is part of a team working with Aniket Joglekar on understanding the molecular basics of different parenting styles in sticklebacks through a detailed chemical analysis.
+
+professor's name: Benjamin Auerbach
+position: Professor of Molecular and Integrative Physiology and in the Neuroscience Program
+summary: Benjamin Auerbach is collaborating with Guowei Zhang on a project to develop safer anesthesia methods for animals during auditory brainstem response tests, which are crucial for audiologists studying hearing.
+
+professor's name: Sepideh Sadaghiani
+position: Psychology professor
+summary: Sepideh Sadaghiani leads the CONNECTLab, where Zifan Zhao works on improving data quality for EEG signals recorded during simultaneous fMRI scans, a project aimed at advancing neuroimaging techniques.
+
+professor's name: Justin Rhodes
+position: Psychology professor
+summary: Justin Rhodes supervises Prithika Ravi's research on the effects of exercise-induced extracellular vesicles on neurogenesis in the hippocampus, with potential implications for treating various brain conditions.
+
+professor's name: Marni Boppart
+position: Professor of Kinesiology and Community Health
+summary: Marni Boppart collaborates with Prithika Ravi on a project exploring how extracellular vesicles from exercising humans can potentially enhance brain health in non-active individuals.
+
+professor's name: Yun-Sheng Chen
+position: Beckman researcher and ECE professor
+summary: Yun-Sheng Chen directs research in the Multimodality Imaging Research Lab, where Swathi Katakam develops deep learning models for super-resolution ultrasound imaging to improve diagnostic accuracy for various conditions.
+
+professor's name: Yang Zhao
+position: Electrical and Computer Engineering professor
+summary: Yang Zhao works with Swathi Katakam on enhancing deep learning applications for ultrasound imaging, aiming to advance medical diagnostics through more accurate imaging techniques.
+
+professor's name: Diane Beck
+position: Beckman researcher and psychology professor
+summary: Diane Beck collaborates with Ling Lee Chong in the Attention and Perception Lab studying the role of visual stimuli in scene understanding, specifically how humans make rapid visual predictions, contributing to broader applications in psychology and computer science.
+
+----------------------------------------------------------------------------------------------------
+
+News number:  5
+Title: Matthew Hanks joins Beckman faculty - Beckman Institute
+Published: 2024-05-14 07:00:00
+Link: https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYmVja21hbi5pbGxpbm9pcy5lZHUvYWJvdXQvbmV3cy9hcnRpY2xlLzIwMjQvMDUvMTQvbWF0dGhldy1oYW5rcy1qb2lucy1iZWNrbWFuLWZhY3VsdHnSAQA?oc=5
+Source: Beckman Institute
+
+gpt-3.5-turbo:
+ Professor's name: Matthew Hanks
+Position: Professor of Kinesiology and Community Health, Director of the Disability and Movement Biomechanics Laboratory
+Summary: Matthew Hanks has joined the Beckman Institute as a professor. His research at the Disability and Movement Biomechanics Laboratory focuses on shoulder health and function in manual wheelchair users. He collaborates with other professors at the Institute to examine changes in health and function in individuals with physical disabilities as they age. He was also the recipient of the American Spinal Injury Association’s Vogel Award in 2022 for his contributions to pediatric spinal cord injury rehabilitation.
+
+gpt-4-turbo:
+ professor's name: Matthew Hanks
+position: Professor of Kinesiology and Community Health, Director of the Disability and Movement Biomechanics Laboratory, College of Applied Health Sciences at the University of Illinois Urbana-Champaign, Affiliate Faculty Member at the Beckman Institute
+summary: Matthew Hanks has recently joined the Beckman Institute, bringing expertise from his role as a professor and director at the University of Illinois. His research focuses on shoulder health and function in manual wheelchair users, with an emphasis on physical activity's impact 
+on musculoskeletal development for healthy aging. Hanks collaborates with fellow professors at the Beckman Institute to study health and function changes in individuals with physical disabilities as they age. He was also recognized with the American Spinal Injury Association’s Vogel Award in 2020 for his contributions to pediatric spinal cord injury rehabilitation.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  6
+Title: Four CS professors named 2024 Google Research Scholars | Computer Science | Illinois - Illinois Computer Science News
+Published: 2024-05-14 07:00:00
+Link: https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vY3MuaWxsaW5vaXMuZWR1L25ld3MvY3MtZ29vZ2xlLXJlc2VhcmNoLXNjaG9sYXJzLTIwMjTSAQA?oc=5    
+Source: Illinois Computer Science News
+
+gpt-3.5-turbo:
+ professor's name: Han Zhao, 
+position: Computer Science Professor,
+summary: Han Zhao, a Computer Science Professor at the University of Illinois Grainger Engineering, has been named a 2024 Google Research Scholar for his proposal on Trustworthy Machine Learning via Post-Processing. He focuses on promoting fairness, robustness, and interpretability of 
+current machine learning models, especially large language models. Zhao's work aims to certify these constraints without retraining, and the Google gift will support his research agenda. Zhao has also received other honors, such as being named a 2023 Kavli Fellow and receiving recognition for teaching excellence.
+
+gpt-4-turbo:
+ professor's name: Han Zhao
+position: CS Professor at Illinois Grainger Engineering Computer Science
+summary: Han Zhao was chosen for his proposal titled "Trustworthy Machine Learning via Post-Processing." His research focuses on enhancing fairness, robustness, and interpretability in machine learning models, specifically targeting large language models without needing to retrain them. Zhao leads a research group at the university, consisting of doctoral, master's, and undergraduate students, collaborating on this domain. His work is recognized by Google's Research Scholar Program, which will support his research efforts for the next few years. Zhao was also named 
+a 2023 Kavli Fellow from the National Academy of Sciences, invited as a speaker at the 2024 AAAI, and acclaimed as an Excellent Teacher.       
+
+professor's name: Nan Jiang
+position: CS Professor at Illinois Grainger Engineering Computer Science
+summary: Nan Jiang received acknowledgment for his project "Unification and Novel Interaction Protocols between Online and Offline RL." His research aims to bridge the gap between online learning, where algorithms learn through practical system trials, and offline learning, where learning is based on pre-collected datasets. His goal is to deepen the understanding and integration of these two paradigms. Google's recognition, along with other accolades like the 2024 Sloan Research Fellow and 2022 NSF Career Award, supports his ongoing research and teaching efforts.   
+
+professor's name: Yupeng Zhang
+position: CS Professor at Illinois Grainger Engineering Computer Science
+summary: Yupeng Zhang was selected for his proposal "Proof of Training and its Applications in Machine Unlearning and Differential Privacy." His research addresses data privacy issues within machine learning, particularly focusing on ensuring data deletion without disclosing the machine model itself, using cryptographic tools like zero-knowledge proofs. His proposal highlights the pivotal role of data privacy in machine learning applications and explores protocols like Machine Unlearning to comply with data protection regulations. Zhang's work earned the Google Research Scholar award, acknowledging the significant impact and necessity of his research in modern computing challenges.
+
+professor's name: Dakshita Khurana
+position: CS Professor at Illinois Grainger Engineering Computer Science
+summary: Dakshita Khurana's research under the proposal titled "Cryptography for the Quantum Age" explores the realms of securing cryptographic practices in anticipation of quantum computing advancements. Her work is critical in preparing for the security challenges that the quantum computing era is expected to bring. Recognized by the Google Research Scholar Program, her research is positioned to influence the development of robust cryptographic protocols that can withstand quantum-level threats. This recognition not only supports her research but emphasizes the importance of developing quantum-resistant cryptographic methods.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  7
+Title: Job Seekers - Illinois Human Resources - University of Illinois Urbana-Champaign
+Published: 2024-05-08 17:46:48
+Link: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vaHVtYW5yZXNvdXJjZXMuaWxsaW5vaXMuZWR1L2pvYi1zZWVrZXJzL9IBAA?oc=5
+Source: University of Illinois Urbana-Champaign
+
+gpt-3.5-turbo:
+ Professor's name: Not mentioned, Position: Not applicable, Summary: The article does not mention any specific professor. 
+
+gpt-4-turbo:
+ Professor's name: Not provided
+Position: Not provided
+Summary: The article does not mention or reference any specific professor or their activities directly. It discusses general information about 
+job opportunities at the University of Illinois Urbana-Champaign, highlighting various roles including administrative, technical, and research 
+positions. The university is noted for its high ranking among public research universities and its notable contributions to technology and innovation. Additionally, the article mentions the university's commitment to equity, diversity, and inclusion, and the various services it offers 
+to support the faculty, staff, and students.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  8
+Title: UIUC faculty join pro-Palestine protests on campus - wcia.com
+Published: 2024-05-07 07:00:00
+Link: https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LndjaWEuY29tL25ld3MvdWl1Yy1mYWN1bHR5LWpvaW4tcHJvLXBhbGVzdGluZS1wcm90ZXN0cy1vbi1jYW1wdXMv0gFRaHR0cHM6Ly93d3cud2NpYS5jb20vbmV3cy91aXVjLWZhY3VsdHktam9pbi1wcm8tcGFsZXN0aW5lLXByb3Rlc3RzLW9uLWNhbXB1cy9hbXAv?oc=5
+Source: wcia.com
+
+gpt-3.5-turbo:
+ I'm sorry, but it seems like the provided article does not contain any information about a specific professor. If you have another article or 
+specific professor in mind, please provide me with that information so I can assist you better.
+
+gpt-4-turbo:
+ Professor's Name: Not provided in the text snippet.
+Position: Not provided in the text snippet.
+Summary: The article does not provide specific details on any professor's involvement, positions, or any other details other than mentioning that faculty from the University of Illinois at Urbana-Champaign (UIUC) participated in pro-Palestine protests on campus. Further details about the event or individual contributions were not shared.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  9
+Title: Beckman announces 2024 Postdoctoral Fellows - Beckman Institute
+Published: 2024-05-06 07:00:00
+Link: https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYmVja21hbi5pbGxpbm9pcy5lZHUvYWJvdXQvbmV3cy9hcnRpY2xlLzIwMjQvMDUvMDYvYmVja21hbi1hbm5vdW5jZXMtMjAyNC1wb3N0ZG9jdG9yYWwtZmVsbG93c9IBAA?oc=5
+Source: Beckman Institute
+
+gpt-3.5-turbo:
+ professor's name: Hemani Chhabra, position: Postdoctoral Researcher, summary: 
+
+Hemani Chhabra, a postdoctoral researcher in the Department of Physics at the University of Illinois Urbana-Champaign, holds a Ph.D. in theoretical and physical chemistry from the University of Oxford. Chhabra's research focuses on advancing genetic data storage with DNA origami, exploring sustainable alternatives to traditional data storage systems. She plans to collaborate with various labs to develop reconfigurable DNA data storage systems inspired by Lego blocks, combining computational design with experimental techniques. This project aims to reshape DNA origami structure with strategically placed defects, improving functionality and capacity, ultimately contributing to eco-friendly data storage solutions.
+
+gpt-4-turbo:
+ - **Professor's name:** Xiao Huan
+- **Position:** Postdoctoral Researcher, Illinois Department of Chemical and Biomolecular Engineering
+- **Summary:** Xiao Huan will utilize AI and 3D printing technologies, with a novel use of self-assembling polymers, to develop dynamic structural colors from a single ink. This eco-friendly methodology contrasts with pollution-heavy chemical dyes and involves collaboration with multiple research groups.
+
+- **Professor's name:** Hemani Chhabra
+- **Position:** Postdoctoral Researcher, Department of Physics, University of Illinois Urbana-Champaign
+- **Summary:** Hemani Chhabra is focusing on designing sustainable and reconfigurable DNA-based data storage systems, employing DNA origami techniques. She works collaboratively with various labs at the Beckman Institute to enhance the capability and stability of DNA for data storage purposes.
+
+- **Professor's name:** Yibo Zhao
+- **Position:** Ph.D. Student transitioning to Postdoctoral Researcher in Fall 2024
+- **Summary:** Yibo Zhao aims to utilize advanced magnetic resonance spectroscopic imaging (MRSI) techniques, specifically the SPICE method, to enable non-invasive high-resolution molecular mapping of the brain, addressing fundamental questions about brain functions and diseases.      
+
+- **Professor's name:** Hsi-Chun Chao
+- **Position:** Future Postdoctoral Researcher, Beckman Institute (currently at Eli Lilly)
+- **Summary:** Hsi-Chun Chao is set to focus on the study of glycolipids and their role in neurodegenerative diseases such as Parkinson’s and Alzheimer’s, using advanced analytic techniques including single-cell mass spectrometry developed by Beckman researchers.
+
+These individuals are part of the 2024 Beckman Institute Postdoctoral Fellows cohort, engaging in cutting-edge multidisciplinary research.     
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  10
+Title: University protests Chicago: Group of faculty defend pro-Palestinian UChicago encampment on campus - WLS-TV
+Published: 2024-05-06 07:00:00
+Link: https://news.google.com/rss/articles/CBMinQFodHRwczovL2FiYzdjaGljYWdvLmNvbS91bml2ZXJzaXR5LW9mLWNoaWNhZ28tc3RvcHMtbmVnb3RpYXRpb25zLXdpdGgtb3JnYW5pemVycy1wcm8tcGFsZXN0aW5pYW4tZW5jYW1wbWVudC1hcy1mYWN1bHR5LXRvLXNwZWFrLWluLXN1cHBvcnQtcHJvdGVzdHMvMTQ3NzI4NjAv0gGhAWh0dHBzOi8vYWJjN2NoaWNhZ28uY29tL2FtcC91bml2ZXJzaXR5LW9mLWNoaWNhZ28tc3RvcHMtbmVnb3RpYXRpb25zLXdpdGgtb3JnYW5pemVycy1wcm8tcGFsZXN0aW5pYW4tZW5jYW1wbWVudC1hcy1mYWN1bHR5LXRvLXNwZWFrLWluLXN1cHBvcnQtcHJvdGVzdHMvMTQ3NzI4NjAv?oc=5
+Source: WLS-TV
+
+gpt-3.5-turbo:
+ Professor's name: Elham Mireshghi, Position: Asst. Instructional Professor at UChicago Divinity School, Summary: Professor Elham Mireshghi expressed support for the pro-Palestinian student encampment on campus, stating that as faculty members, they will protect the safety of the students if the administration attempts to violently remove them.
+
+gpt-4-turbo:
+ Professor's name: Elham Mireshghi
+Position: Assistant Instructional Professor, UChicago Divinity School
+Summary: Professor Elham Mireshghi was mentioned as vigorously defending the pro-Palestinian student encampment at the University of Chicago. She emphasized the faculty’s commitment to protecting student safety in case the administration decided to use forceful measures to disband the 
+encampment.
+
+Professor's name: Allyson Nadia Field
+Position: Professor, University of Chicago
+Summary: Professor Allyson Nadia Field criticized the potential use of police force on the university campus, arguing that it sets a dangerous 
+precedent across America, not protecting but rather intimidating and silencing.
+
+Professor's name: Anton Ford
+Position: Professor, University of Chicago
+Summary: Professor Anton Ford expressed a deep concern for the safety of the students involved in the encampment, highlighting the faculty’s presence and preparedness to get arrested alongside the students to prevent any harm due to potential raids.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  11
+Title: Three Illinois faculty members elected to National Academy of Sciences | Illinois - University of Illinois Urbana-Champaign
+Published: 2024-05-02 07:00:00
+Link: https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbmV3cy5pbGxpbm9pcy5lZHUvdmlldy82MzY3LzE2NjY0OTgyODXSAQA?oc=5
+Source: University of Illinois Urbana-Champaign
+
+gpt-3.5-turbo:
+ professor's name: Chen-Yu Liu, position: Physics professor, summary: Chen-Yu Liu, a physics professor at the University of Illinois Urbana-Champaign, was elected to the National Academy of Sciences for her distinguished research in symmetry tests and fundamental neutron physics. She specializes in experimental tools using ultra-cold neutrons and holds the record for the most precise measurement of the neutron lifetime. Throughout her career, she has received prestigious honors such as a Sloan Research Fellowship and an American Physical Society Fellowship.
+
+professor's name: Steve Sligar, position: Biochemistry professor emeritus, summary: Steve Sligar, a biochemistry professor emeritus at the University of Illinois Urbana-Champaign, was elected to the National Academy of Sciences in recognition of his research on metalloenzymes, membrane-bound receptors, and blood coagulation. His accolades include being a fellow of the Biophysical Society and receiving a Fulbright research scholarship.
+
+professor's name: Ken Suslick, position: Chemistry professor emeritus, summary: Ken Suslick, a chemistry professor emeritus at the University of Illinois Urbana-Champaign, was elected to the National Academy of Sciences for his groundbreaking work in chemical sensing and ultrasound effects. He has received numerous awards, such as the Sir George Stokes Medal and the Hildebrand Award in the Chemistry of Liquids, and is currently the CEO of Iridescent Sensors Inc., a startup at the University of Illinois Research Park.
+
+gpt-4-turbo:
+ - **Professor's Name:** Chen-Yu Liu
+- **Position:** Physics Professor
+- **Summary:** Chen-Yu Liu, who joined the University of Illinois Urbana-Champaign in 2022 from Indiana University, focuses her research on symmetry tests and fundamental neutron physics to understand matter creation and nucleosynthesis in the early universe. She uses experimental tools involving ultra-cold neutrons and has achieved the most precise measurement of neutron lifetime. Liu has garnered accolades like a Sloan Research Fellowship and an American Physical Society Fellowship, among others.
+
+- **Professor's Name:** Steve Sligar
+- **Position:** Biochemistry Professor Emeritus and Maybelle Leland Swanlund Endowed Chair Emeritus
+- **Summary:** Steve Sligar, distinguished for his work on the structure and function of metalloenzymes and membrane-bound receptors, attained 
+his Ph.D. from the University of Illinois in 1975 and returned in 1982 after a stint at Yale University. His significant contributions extend into blood coagulation and amyloid proteins research, impacting various human diseases. His recognitions include a Fulbright research scholarship and a National Institutes of Health Merit Award.
+
+- **Professor's Name:** Ken Suslick
+- **Position:** Chemistry Professor Emeritus and Marvin T. Schmidt Professor of Chemistry Emeritus
+- **Summary:** Ken Suslick has been at the forefront of chemical sensing and sonochemistry since joining the University of Illinois in 1978. His innovations include developing an artificial optoelectronic “nose” for detecting harmful atmospheric substances. Suslick’s entrepreneurial ventures include being the CEO of Iridescent Sensors Inc. He has received several prestigious awards and is a fellow of multiple scientific societies including the American Chemical Society and the Royal Society of Chemistry.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  12
+Title: UI professor details risks faculty run while supporting student protest - Daily Illini
+Published: 2024-05-01 07:00:00
+Link: https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGFpbHlpbGxpbmkuY29tL25ld3Mtc3Rvcmllcy8yMDI0LzA1LzAxL3Byb2Zlc3Nvci1mYWN1bHR5LXN0dWRlbnQtcHJvdGVzdC_SAQA?oc=5
+Source: Daily Illini
+
+gpt-3.5-turbo:
+ Professor's name: Maryam Kashani
+Position: Associate Professor in Gender and Women’s Studies and Asian-American studies
+Summary: Maryam Kashani, an associate professor at the University of Illinois, details the risks that faculty members face while supporting student protests, particularly on sensitive issues like the pro-Palestinian protest. She highlighted the fear and hesitancy among faculty, especially junior professors, about speaking out or showing support due to potential repercussions from the University. Kashani emphasized the importance of supporting students despite the risks and shared her own willingness to be present at the student encampment, even acknowledging the possibility of losing her job but considering it worth it to educate others about global events.
+
+gpt-4-turbo:
+ professor's name: Maryam Kashani
+position: Associate Professor in Gender and Women’s Studies and Asian-American Studies
+summary: Maryam Kashani is actively participating in a pro-Palestinian student protest at the University, discussing the hesitancy and risks faculty face when supporting such movements, especially those without tenure. She mentions the fear of retaliation affecting junior faculty's willingness to support protesting students and underscores the security that tenure provides, allowing her to advocate openly for student causes. 
+Kashani reflects on past repercussions faced by faculty due to their public stances on sensitive issues, particularly referencing the case of Steven Salaita, whose employment was terminated over his comments about the Israeli-Palestinian conflict. Despite potential risks, Kashani feels a strong responsibility to support student safety and education.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  13
+Title: Faculty members defend student protesters with open letters, no-confidence votes - NPR
+Published: 2024-05-01 07:00:00
+Link: https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNS8wMS8xMjQ4MDk5NjAwL2NhbXB1cy1wcm90ZXN0cy1mYWN1bHR5LWFycmVzdHMtbGV0dGVycy1uby1jb25maWRlbmNlLXZvdGVz0gEA?oc=5
+Source: NPR
+
+gpt-3.5-turbo:
+ Professor's name: Sarah Phillips, Position: Anthropology Professor at Indiana University, Summary: Sarah Phillips, an anthropology professor at IU, was among the four faculty members and 19 students arrested at a campus protest. She was arrested while trying to protect her peaceful students' free speech rights and was handcuffed and taken to jail. Phillips, along with other faculty members, is increasingly standing with students to safeguard their right to protest against university policies. She sees it as her responsibility to speak up when she sees harm being done to students' rights being violated, especially in the context of pro-Palestinian protests on campus. Phillips plans to appeal her trespass warning and continue supporting her students despite the disruptions to the end-of-semester activities.
+
+gpt-4-turbo:
+ Professor's name: Sarah Phillips
+Position: Anthropology Professor at Indiana University
+Summary: Sarah Phillips, during a protest at Indiana University, reacted instinctively to protect her students' free speech rights against heavily armed riot police. Despite being peaceful, she was arrested and charged with criminal trespass. The recent events involved her and other faculty members as they stood in solidarity with student protesters, advocating for their rights and pushing against university policies deemed restrictive. Phillips, among others, has been restricted from campus property and faces potential employment consequences for her actions in defense of student expression and protest.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  14
+Title: Five Illinois faculty elected to American Academy of Arts and Sciences | Illinois - University of Illinois Urbana-Champaign
+Published: 2024-04-24 07:00:00
+Link: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbmV3cy5pbGxpbm9pcy5lZHUvdmlldy82MzY3LzM1MDI4Njg4N9IBAA?oc=5
+Source: University of Illinois Urbana-Champaign
+
+gpt-3.5-turbo:
+ Professor's name: Nancy M. Amato, Position: Abel Bliss Professor of Engineering and department head of computer science, Summary: Nancy M. Amato, a professor at the University of Illinois Urbana-Champaign, has been elected as a member of the American Academy of Arts and Sciences. She 
+works at the intersection of robotics, parallel and distributed computing, computational geometry, and biology. Amato is passionate about broadening participation in computing and has made notable contributions to various fields, including robotic task and motion planning, computer-aided design, and protein folding.
+
+Professor's name: Rashid Bashir, Position: Grainger distinguished professor of bioengineering and dean of The Grainger College of Engineering at Illinois, Summary: Rashid Bashir, a distinguished professor at the University of Illinois Urbana-Champaign, has been elected as a member of the American Academy of Arts and Sciences. His research focuses on integrating engineering and technology with biology and medicine, developing 
+lab-on-a-chip and point-of-care diagnostic devices. Bashir is a member of several prestigious academies and societies and has been involved in 
+founding the Carle Illinois College of Medicine.
+
+gpt-4-turbo:
+ Professor's name: Nancy M. Amato
+Position: Abel Bliss Professor of Engineering and department head of computer science
+Summary: Nancy M. Amato's research focuses on robotics, parallel and distributed computing, computational geometry, and biology. Her projects range from robotic task and motion planning to applications in computer-aided design, virtual and augmented reality, protein folding, and computing with biological neurons. She aims to broaden participation in computing and holds membership and fellowships in several prestigious academies and associations.
+
+Professor's name: Rashid Bashir
+Position: Grainger distinguished professor of bioengineering and dean of The Grainger College of Engineering
+Summary: Rashid Bashir conducts research integrating engineering and technology with biology and medicine. His work includes developing lab-on-a-chip and point-of-care diagnostic devices to detect diseases and sepsis, and creating miniature biological robots for medical and engineering applications. He is heavily involved in academia and holds leadership positions, including contributions to the founding of the Carle Illinois College of Medicine.
+
+Professor's name: Alison Bell
+Position: Professor of evolution, ecology, and behavior
+Summary: Alison Bell is an expert on the behavior evolution of the three-spined stickleback fish and a pioneer in animal personality studies. Her research uses genomics among other tools to understand individual behavioral differences in animals. She is associated with the Beckman Institute for Advanced Science and Technology and the Carl R. Woese Institute for Genomic Biology. Bell's work has earned her several recognitions 
+including a Guggenheim fellowship.
+
+Professor's name: Charles Gammie
+Position: Professor of physics and astronomy
+Summary: Charles Gammie is recognized for his contributions to theoretical and computational astrophysics, focusing on black holes, hot plasmas, and star and planet formation. He played a significant role in the Event Horizon Telescope Collaboration as leader of the Theory Working Group, contributing to capturing the first image of a black hole. He is a Fellow of the American Physical Society.
+
+Professor's name: Paul Selvin
+Position: Professor of physics
+Summary: Paul Selvin specializes in fluorescence microscopy and has pioneered numerous imaging techniques such as LRET, FRET, and FIONA. These 
+techniques have advanced the understanding of DNA properties, mutant nervous systems, molecular motors, and neuronal signal transmission. His contributions have been widely recognized, earning him fellowship in the American Physical Society.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  15
+Title: Birmingham-Illinois “BRIDGE” Alliance marks tenth year of collaboration with $600000 investment in joint research - University of Illinois Urbana-Champaign
+Published: 2024-04-22 07:00:00
+Link: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vYmxvZ3MuaWxsaW5vaXMuZWR1L3ZpZXcvNjc1OC8xNTM3MzI4MjQz0gEA?oc=5
+Source: University of Illinois Urbana-Champaign
+
+gpt-3.5-turbo:
+ Professor's name: Robin Mason
+Position: Pro-Vice-Chancellor (International)
+Summary: Professor Robin Mason, the Pro-Vice-Chancellor (International) at the University of Birmingham, highlighted the success and impact of 
+the BRIDGE Alliance in addressing global challenges and nurturing researchers. She emphasized the productive research collaborations and the development of academic strengths through the partnership with the University of Illinois Urbana-Champaign. Mason expressed excitement for the next five years of the BRIDGE partnership and the potential impact of collaborating with partners in the Global South.
+
+gpt-4-turbo:
+ - **Professor's name:** Adam Tickell
+- **Position:** Vice-Chancellor of the University of Birmingham
+- **Summary:** Professor Adam Tickell welcomed a delegation from the University of Illinois Urbana-Champaign, to celebrate the tenth anniversary of the BRIDGE Alliance, a partnership aimed at developing research collaborations between the two universities. The partnership has led to significant collaboration in tackling global challenges through innovative research, particularly focusing on the Global South, covering areas such as global health, sustainability, and educational access and equity. The event also marked future plans for continuing and expanding the collaboration, emphasizing the import of addressing global challenges through research.
+
+- **Professor's name:** Robert J. Jones
+- **Position:** Chancellor of the University of Illinois Urbana-Champaign
+- **Summary:** Chancellor Robert J. Jones led the US delegation's visit to the University of Birmingham, discussing the growth and future of the BRIDGE Alliance. He emphasized the role of their partnership in addressing global issues such as healthcare disparities, climate change, and 
+education access through global collaborations. He highlighted the impact of the alliance's research initiatives on the global community.      
+
+- **Professor's name:** Reitumetse Obakeng Mabokela
+- **Position:** Illinois’ Associate Chancellor and Vice Provost for Global Affair & Strategies
+- **Summary:** Professor Reitumetse Obakeng Mabokela commented on the past decade's success of the BRIDGE partnership and expressed enthusiasm 
+for the future, marking the shift toward more collaborative relations with the Global South. She outlined hopes for the continued success and expansion of collaborative research initiatives that extend human experiences and foster significant societal impacts.
+
+- **Professor's name:** Robin Mason
+- **Position:** Birmingham Pro-Vice-Chancellor (International)
+- **Summary:** Professor Robin Mason commented on the achievements of the BRIDGE Alliance under the partnership, noting the outstanding results generated from research collaborations that address global issues. He emphasized the nurturing and development of early-career researchers and the strengthening of academic excellence at both universities through the alliance. Looking forward, Prof. Mason is optimistic about the next 
+five years of the partnership and the impacts they aim to achieve globally.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  16
+Title: Music, physics and theater professors at UIUC are launching a new art and science collective - IPM Newsroom
+Published: 2024-04-19 07:00:00
+Link: https://news.google.com/rss/articles/CBMidGh0dHBzOi8vaXBtbmV3c3Jvb20ub3JnL211c2ljLXBoeXNpY3MtYW5kLXRoZWF0ZXItcHJvZmVzc29ycy1hdC11aXVjLWFyZS1sYXVuY2hpbmctYS1uZXctYXJ0LWFuZC1zY2llbmNlLWNvbGxlY3RpdmUv0gEA?oc=5
+Source: IPM Newsroom
+
+gpt-3.5-turbo:
+ Professor's name: Smitha Vishveshwara
+Position: Physics professor
+Summary: Smitha Vishveshwara, a physics professor at the University of Illinois at Urbana-Champaign, along with theater professor Latrelle Bright, has launched a new art and science collective called CASCaDe. They were inspired by their interdisciplinary performance "Quantum Voyagers," which explores the quantum realm. The collective aims to bring together people from various academic fields to foster creativity, deeper thinking skills, playfulness, expression, and empathy within the community. The launch event for the collective is scheduled at the Krannert Center 
+for Performing Arts in Urbana.
+
+gpt-4-turbo:
+ - **Professor's name:** Smitha Vishveshwara
+- **Position:** Physics Professor at University of Illinois at Urbana-Champaign
+- **Summary:** Smitha Vishveshwara collaborated with theater professor Latrelle Bright and music professor Stephen Taylor to launch the Collective for Art-Science, Creativity and Discovery (CASCaDe). The collective was inspired by their interdisciplinary performance "Quantum Voyagers," which explores the quantum realm. Vishveshwara aims to foster creativity, deep thinking, and expression among young people through art and science integration. She hopes the collective will inspire awe and connectivity at their events, enhancing community involvement and feedback-driven improvements in their performances.
+
+- **Professor's name:** Latrelle Bright
+- **Position:** Theater Professor at University of Illinois at Urbana-Champaign
+- **Summary:** Latrelle Bright co-created the performance "Quantum Voyagers" with physicist Smitha Vishveshwara, leading to the formation of the art and science collective CASCaDe alongside music professor Stephen Taylor. Bright emphasizes the importance of community and feedback in evolving their productions, noting significant changes in the new iterations of "Quantus Voyages." The collective aims to invite diverse participation and broaden the impact of their creative explorations.
+
+- **Professor's name:** Stephen Taylor
+- **Position:** Music Professor at University of Illinois at Urbana-Champaign
+- **Summary:** Stephen Taylor joined forces with Smitha Vishveshwara and Latrelle Bright to launch CASCaDe, after their successful collaboration on "Quantum Voyagers." Taylor's integration of music into the performance has been highlighted as adding depth and dimension to the storytelling, helping to establish a dynamic interaction between the elements of the performance. Taylor's contributions are positioned as crucial to evolving the performative experience in the collective's projects.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  17
+Title: Seven Illinois professors elected AAAS Fellows | Illinois - University of Illinois Urbana-Champaign
+Published: 2024-04-18 07:00:00
+Link: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbmV3cy5pbGxpbm9pcy5lZHUvdmlldy82MzY3LzQzMjEwODEwNtIBAA?oc=5
+Source: University of Illinois Urbana-Champaign
+
+gpt-3.5-turbo:
+ professor's name: Sarita Adve, position: Richard T. Cheng Professor of Computer Science and the director of IMMERSE: Center for Immersive Computing, summary: Sarita Adve, a computer science professor at the University of Illinois Urbana-Champaign, has been elected as a 2023 Fellow of 
+the American Association for the Advancement of Science. She is recognized for her distinguished contributions to high-performance computing architectures and ensuring the inclusion of marginalized populations within computing.
+
+professor's name: Rebecca Fuller, position: evolution, ecology, and behavior professor, summary: Rebecca Fuller, a professor in evolution, ecology, and behavior at the University of Illinois Urbana-Champaign, has been elected as a 2023 Fellow of the American Association for the Advancement of Science. She is acknowledged for her contributions to the field of evolutionary biology, particularly in understanding mate-choice-driven processes of speciation.
+
+professor's name: Praveen Kumar, position: Colonel Harry F. and Frankie M. Lovell Endowed Professor of Civil and Environmental Engineering and 
+executive director of the Prairie Research Institute, summary: Praveen Kumar, a civil and environmental engineering professor at the University of Illinois Urbana-Champaign, has been elected as a 2023 Fellow of the American Association for the Advancement of Science. He is recognized for his pioneering work in the field of hydrocomplexity and contributions to understanding emergent behavior in multiscale water, soil, climate, and vegetation interactions.
+
+professor's name: Christy Landes, position: Jerry A. Walker Endowed Chair in Chemistry, summary: Christy Landes, a chemistry professor at the University of Illinois Urbana-Champaign, has been elected as a 2023 Fellow of the American Association for the Advancement of Science. She is acknowledged for her developments in single-molecule measurement techniques and their application to chemical and biological systems.
+
+professor's name: Marshall Scott Poole, position: David L. Swanson Professor Emeritus of Communication, summary: Marshall Scott Poole, a communication professor at the University of Illinois Urbana-Champaign, has been elected as a 2023 Fellow of the American Association for the Advancement of Science. He is recognized for his contributions to the science of group and organizational communication, particularly in studying how 
+organizational structure and diversity affect innovation and productivity.
+
+professor's name: Cory Suski, position: natural resources and environmental sciences professor, summary: Cory Suski, a professor in natural resources and environmental sciences at the University of Illinois Urbana-Champaign, has been elected as a 2023 Fellow of the American Association for the Advancement of Science. He is acknowledged for his contributions in ecological physiology and conservation science, particularly in innovative physiological barriers to dispersal by invasive aquatic species.
+
+professor's name: Martin Williams, position: crop sciences and NRES professor, summary: Martin Williams, an ecologist in the U.S. Department of Agriculture’s Agricultural Research Service and a professor in crop sciences and NRES at the University of Illinois Urbana-Champaign, has been elected as a 2023 Fellow of the American Association for the Advancement of Science. He is recognized for his contributions to the fields of weed science and vegetable crop production.
+
+gpt-4-turbo:
+ - **Professor's name:** Sarita Adve
+- **Position:** Richard T. Cheng Professor of Computer Science and director of IMMERSE: Center for Immersive Computing at the University of Illinois Urbana-Champaign
+- **Summary:** Sarita Adve has been elected a 2023 Fellow of the American Association for the Advancement of Science for her significant contributions to high-performance computing architectures and promoting inclusion within computing. Her research covers the entire computing system stack, focusing on immersive computing. She holds membership in the American Academy of Arts and Sciences and is a fellow of both the Association for Computing Machinery and the Institute of Electrical and Electronics Engineers.
+
+- **Professor's name:** Rebecca Fuller
+- **Position:** Professor of Evolution, Ecology, and Behavior at the University of Illinois Urbana-Champaign
+- **Summary:** Rebecca Fuller's research delves into the evolution of fishes, examining natural and sexual selection, genetic variation, and speciation processes. Her work, particularly on the sensory and genetic basis of mate selection, has earned her recognition by the AAAS as a 2023 Fellow for her contributions to evolutionary biology.
+
+- **Professor's name:** Praveen Kumar
+- **Position:** Colonel Harry F. and Frankie M. Lovell Endowed Professor of Civil and Environmental Engineering and executive director of the Prairie Research Institute at the University of Illinois Urbana-Champaign
+- **Summary:** Praveen Kumar's pioneering work in hydrocomplexity, focusing on multiscale water, soil, climate, and vegetation interactions, has been recognized by the AAAS. His contributions to critical zone science have established him as a leader in his field.
+
+- **Professor's name:** Christy Landes
+- **Position:** Jerry A. Walker Endowed Chair in Chemistry at the University of Illinois Urbana-Champaign
+- **Summary:** Christy Landes studies structure-function relationships in biological processes, inspiring innovations in materials design. Her 
+advancements in single-molecule measurement techniques and their application to chemical and biological systems have led to her recognition as 
+a 2023 AAAS Fellow.
+
+- **Professor's name:** Marshall Scott Poole
+- **Position:** David L. Swanson Professor Emeritus of Communication at the University of Illinois Urbana-Champaign
+- **Summary:** Marshall Scott Poole's research contributions to group and organizational communication, particularly regarding the impact of organizational structure and diversity on innovation and productivity, have led to his selection as a 2023 AAAS Fellow. His current work includes exploring communication in virtual worlds.
+
+- **Professor's name:** Cory Suski
+- **Position:** Professor of Natural Resources and Environmental Sciences at the University of Illinois Urbana-Champaign
+- **Summary:** Cory Suski integrates animal behavior, physiology, and ecology in his research to design conservation strategies addressing various ecological stressors. His innovative approaches to managing invasive species have been recognized by the AAAS as a significant contribution to conservation science.
+
+- **Professor's name:** Martin Williams
+- **Position:** Crop Sciences and NRES Professor, an ecologist at the U.S. Department of Agriculture’s Agricultural Research Service
+- **Summary:** Martin Williams has developed models to mitigate climate and weed-related risks to food production. His research aims to enhance resilience in crop management and is acknowledged by the AAAS for his contributions to weed science and crop production.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  18
+Title: C-U Schools Foundation honors late UIUC Professor for his contribution to local communities - IPM Newsroom
+Published: 2024-04-15 07:00:00
+Link: https://news.google.com/rss/articles/CBMidGh0dHBzOi8vaXBtbmV3c3Jvb20ub3JnL2MtdS1zY2hvb2xzLWZvdW5kYXRpb24taG9ub3JzLWxhdGUtdWl1Yy1wcm9mZXNzb3ItZm9yLWhpcy1jb250cmlidXRpb24tdG8tbG9jYWwtY29tbXVuaXRpZXMv0gEA?oc=5
+Source: IPM Newsroom
+
+gpt-3.5-turbo:
+ Professor's name: Dr. William Patterson
+Position: University of Illinois professor
+Summary: Dr. William Patterson, a University of Illinois professor, was honored posthumously for his contributions to the local community, particularly in education and STEM initiatives for under-resourced neighborhoods. He was remembered for his leadership, positive impact, and innovative approach in integrating Hip-Hop music with Science, Technology, Engineering, and Mathematics (STEAM) through his organization, Ghetto Genius. Patterson held a Ph.D. from the University of Illinois and was recognized as a distinguished alumnus of Urbana High School.
+
+gpt-4-turbo:
+ professor's name: Dr. William Patterson (Maurice "Reesy" Patterson)
+position: Professor at the University of Illinois
+summary: Dr. William Patterson, also known as Maurice "Reesy" Patterson, was honored posthumously by the Champaign Urbana Schools Foundation as a distinguished alumnus for his significant contributions to local communities through education and cultural integration. He initiated programs that introduced STEM education to under-resourced neighborhoods and created Ghetto Genius, which combines Hip-Hop music with STEM subjects. 
+His efforts and leadership qualities made a lasting impact, inspiring both young individuals and adults within his community.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  19
+Title: Two Illinois professors awarded Guggenheim Fellowships | Illinois - University of Illinois Urbana-Champaign
+Published: 2024-04-12 07:00:00
+Link: https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbmV3cy5pbGxpbm9pcy5lZHUvdmlldy82MzY3LzExMzMyNDUwNTPSAQA?oc=5
+Source: University of Illinois Urbana-Champaign
+
+gpt-3.5-turbo:
+ Professor Name: Alison Bell, Position: Evolution, Ecology and Behavior Professor, Summary: Alison Bell, an evolution, ecology, and behavior professor at the University of Illinois Urbana-Champaign, has been awarded a 2024 Guggenheim Fellowship. She studies behavior evolution in three-spined stickleback fish and is recognized for her work on animal personality and gene networks in neural and developmental plasticity. As a Guggenheim Fellow, Bell will further develop a conceptual framework integrating neural and gene regulatory networks to explore the origin and maintenance of behavioral diversity.
+
+Professor Name: Paul Hardin Kapp, Position: Architecture Professor, Summary: Paul Hardin Kapp, an architecture professor at the University of Illinois Urbana-Champaign specializing in historic preservation, has also been awarded a 2024 Guggenheim Fellowship. His research focuses on examining how iconoclasm, as acts of protest and civic artistic engagement, can impact the perception and engagement with historic public spaces. 
+Kapp is known for his publications and significant contributions to the field of architecture and preservation.
+
+gpt-4-turbo:
+ - **Professor's name**: Alison Bell
+- **Position**: Evolution, ecology, and behavior professor at the University of Illinois Urbana-Champaign
+- **Summary**: Alison Bell, an esteemed professor, has been awarded a 2024 Guggenheim Fellowship for her pioneering work on the evolution of behavior, particularly in the three-spined stickleback fish. Her research emphasizes the genomic underpinnings and consequences of individual behavior differences. Bell's work extends to various leadership and directorial roles within notable institutes and programs focused on genetics, 
+neuroscience, and behavior. Her Guggenheim project aims to develop a conceptual framework that integrates neural and gene regulatory networks to explore the origins and preservation of behavioral diversity.
+
+---
+
+- **Professor's name**: Paul Hardin Kapp
+- **Position**: Architecture professor and Associate Director of the Collaborative for Cultural Heritage Management at Illinois
+- **Summary**: Professor Paul Hardin Kapp, also a recipient of the 2024 Guggenheim Fellowship, focuses on historic preservation. His scholarly 
+works include multiple publications on the architectural and cultural heritage of the southern United States. Kapp's upcoming project, funded by his Guggenheim Fellowship, entitled “Popular Iconoclasm in the Public Square,” will explore how acts of iconoclasm influence and reshape public perceptions and interactions with historic and monumental public spaces. Through his extensive academic and field experiences, Kapp has contributed significantly to education and advisory roles in the preservation sector.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  20
+Title: Renowned Surgeon, Researcher, and Innovator Joins CI MED Faculty - Carle Illinois College of Medicine
+Published: 2024-04-11 07:00:00
+Link: https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vbWVkaWNpbmUuaWxsaW5vaXMuZWR1L25ld3MvcmVub3duZWQtc3VyZ2Vvbi1yZXNlYXJjaGVyLWFuZC1pbm5vdmF0b3Itam9pbi1jaS1tZWQtZmFjdWx0edIBAA?oc=5
+Source: Carle Illinois College of Medicine
+
+gpt-3.5-turbo:
+ Professor's name: Dr. Claudius Conrad
+Position: Surgical Oncologist, Researcher, and Innovator
+Summary: Dr. Claudius Conrad, a world-renowned surgical oncologist, has joined Carle Illinois College of Medicine to advance cutting-edge cancer care, mentor the next generation of physician-innovators, and strengthen collaborations between Carle Health System, the Cancer Center at Illinois, and CI MED. He brings expertise in minimally invasive surgery for liver, pancreatic, and biliary tract cancers and is focusing on developing surgical and diagnostic technologies to minimize trauma for patients. Additionally, Dr. Conrad is known for his research on the role of music in medicine and plans to leverage Illinois' expertise in artificial intelligence for therapeutic applications in music. He holds dual doctorate degrees in biology and musical science and has previously served as the Chief of General Surgery and Surgical Oncology at St. Elizabeth’s 
+Hospital in Boston and as a Professor of Surgery at Boston University School of Medicine.
+
+gpt-4-turbo:
+ professor's name: Dr. Claudius Conrad
+position: Director of Translational Research at the Cancer Center at Illinois and Medical Director of Surgical Strategy and Innovation at Carle Health
+summary: Dr. Claudius Conrad has recently joined Carle Illinois College of Medicine, bringing extensive expertise in minimally invasive surgical oncology. His work focuses on innovative surgical and diagnostic technologies aimed at minimizing trauma for cancer patients. Dr. Conrad is also involved in mentoring medical students and fostering collaborative research and innovation through his leadership roles at Carle Health and the Cancer Center at Illinois. Additionally, he explores the intersections of music and medicine, looking into music's therapeutic potential in clinical settings. His previous affiliations include Harvard Medical School, Massachusetts General Hospital, and Boston University School of 
+Medicine.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  21
+Title: Computer science professors and a grad student earn 13 Grainger Engineering college and Illinois campus 2024 ... - Illinois Computer Science News
+Published: 2024-04-10 07:00:00
+Link: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vY3MuaWxsaW5vaXMuZWR1L25ld3MvZ2NvZS1pbGxpbm9pcy0yMDI0LWNzLWF3YXJkc9IBAA?oc=5
+Source: Illinois Computer Science News
+
+gpt-3.5-turbo:
+ Professor's name: Nancy M. Amato, Position: CS professor, Summary: Nancy M. Amato received The Grainger College of Engineering's 2024 College 
+Award for Leadership of Institutional Impact in Diversity, Equity, and Inclusion. Additionally, she is a 2024 Campus Executive Officer Distinguished Leadership Award recipient.
+
+gpt-4-turbo:
+ Professor's Name: Nancy M. Amato
+Position: CS Professor
+Summary: Nancy M. Amato has been honored with The Grainger College of Engineering's 2024 College Award for Leadership of Institutional Impact in Diversity, Equity, and Inclusion. Additionally, she is the recipient of the 2024 Campus Executive Officer Distinguished Leadership Award, which she will be formally recognized for at the upcoming Celebration of Academic Service and Leadership Excellence.
+
+Professor's Name: Yael Gertner
+Position: CS Professor
+Summary: Yael Gertner has received The Grainger College of Engineering's 2024 Collins Award for Innovative Teaching, recognizing her unique contributions to the computer science curriculum and pedagogy.
+
+Professor's Name: Dakshita Khurana
+Position: CS Professor
+Summary: Dakshita Khurana was awarded The Grainger College of Engineering's 2024 Dean’s Award for Excellence in Research for an Assistant Professor due to her exceptional research contributions in the field of computer science.
+
+Professor's Name: Eric Shaffer
+Position: CS Professor
+Summary: Eric Shaffer has been recognized with The Grainger College of Engineering's 2024 Rose Award for Teaching Excellence, highlighting his 
+outstanding performance and dedication in the classroom.
+
+Professor's Name: Josep Torrellas
+Position: CS Professor
+Summary: Josep Torrellas received The Grainger College of Engineering's 2024 Tau Beta Pi Daniel C. Drucker Eminent Faculty Award for his distinguished career and contribution to the field of engineering education and research.
+
+Professor's Name: Tiffani L. Williams
+Position: CS Professor
+Summary: Tiffani L. Williams has been awarded The Grainger College of Engineering's 2024 Award for Sustained Excellence in Diversity, Equity, and Inclusion, acknowledging her long-term commitment and impactful contributions to these essential areas.
+
+Professor's Name: Tianyin Xu
+Position: CS Professor
+Summary: Tianyin Xu has received The Grainger College of Engineering's 2024 Dean’s Award for Excellence in Research for an Assistant Professor, recognizing his innovative research work in computer science.
+
+Professor's Name: Abdussalam Alawini
+Position: CS Professor
+Summary: Abdussalam Alawini has earned the 2024 campus award for Excellence in Undergraduate Teaching, celebrating his effectiveness and dedication as an educator in computer science.
+
+Professor's Name: Mohammed El-Kebir
+Position: CS Professor
+Summary: Mohammed El-Kebir is the recipient of the 2024 campus award for Excellence in Guiding Undergraduate Research, honoring his guidance and mentorship in student research initiatives.
+
+Professor's Name: Sheldon Jacobson
+Position: CS Professor
+Summary: Sheldon Jacobson received the 2024 campus award for Excellence in Public Engagement - Faculty and Staff - Distinguished Award, acknowledging his significant contributions to community engagement and public outreach.
+
+Professor's Name: Luke Olson
+Position: CS Professor
+Summary: Luke Olson has been recognized with the 2024 campus award for Excellence in Graduate & Professional Teaching, highlighting his exceptional skills and dedication to teaching at the graduate level.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  22
+Title: 2024 Celebration of Excellence | Computer Science | Illinois - Illinois Computer Science News
+Published: 2024-04-07 22:02:21
+Link: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vY3MuaWxsaW5vaXMuZWR1L2Fib3V0L2F3YXJkcy9jZWxlYnJhdGlvbi1vZi1leGNlbGxlbmNlLzIwMjTSAQA?oc=5
+Source: Illinois Computer Science News
+
+gpt-3.5-turbo:
+ Professor's name: Nancy M. Amato, Position: Head, Department of Computer Science, Abel Bliss Professor of Engineering, Summary: Nancy M. Amato is an esteemed professor who serves as the Head of the Department of Computer Science and holds the Abel Bliss Professor of Engineering position. She leads the department with a focus on recognizing outstanding achievements of students, faculty, alumni, and donors in the field of computer science.
+
+gpt-4-turbo:
+ professor's name: Nancy M. Amato
+position: Head, Department of Computer Science, Abel Bliss Professor of Engineering
+summary: Nancy M. Amato, in her role as Head of the Department of Computer Science at the University of Illinois, participates in celebrating the achievements of students, faculty, and staff in areas ranging from academic performance to leadership and research. The celebration highlights various contributions within the field of computer science, recognizing both educational progress and practical applications in industry.   
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  23
+Title: Mentee reflects on life purpose discovered following UIUC professor's death - IPM Newsroom
+Published: 2024-04-06 07:00:00
+Link: https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vaXBtbmV3c3Jvb20ub3JnL21lbnRlZS1yZWZsZWN0cy1vbi1saWZlLXB1cnBvc2UtZGlzY292ZXJlZC1mb2xsb3dpbmctdWl1Yy1wcm9mZXNzb3JzLWRlYXRoL9IBAA?oc=5
+Source: IPM Newsroom
+
+gpt-3.5-turbo:
+ Professor's name: Dr. William Patterson
+Position: University of Illinois professor
+Summary: Dr. William Patterson, a professor at the University of Illinois, inspired Champaign residents to build new things before his death. He founded an organization called "Ghetto Genius" to educate youth on STEM, which had a significant impact on individuals like Miquel Smoot, who was unsure of his life's direction until he met Patterson in 2020. Smoot was inspired by Patterson's guidance and is now working as a Cement truck operator in Arizona, setting foundations for new buildings using remote controls. The article highlights the positive influence Dr. Patterson had on Smoot and the community through his mentorship and educational initiatives.
+
+gpt-4-turbo:
+ professor's name: Dr. William Patterson
+position: Professor at the University of Illinois
+summary: Dr. William Patterson inspired Miquel Smoot and others in Champaign by involving them in his organization "Ghetto Genius," which educates youth on STEM. Smoot met Dr. Patterson while tinkering with remote control cars in a store, and this encounter significantly impacted his career path and life philosophy. With Patterson's influence, Smoot built an [remote control] track and has pursued a new life in Arizona working as a cement truck operator, applying skills he learned from his mentor.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  24
+Title: 217 Today: UIUC graduate to become first Black professor teaching manga in the US - IPM Newsroom
+Published: 2024-04-04 07:00:00
+Link: https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vaXBtbmV3c3Jvb20ub3JnLzIxNy10b2RheS11aXVjLWdyYWR1YXRlLXRvLWJlY29tZS1maXJzdC1ibGFjay1wcm9mZXNzb3ItdGVhY2hpbmctbWFuZ2EtaW4tdGhlLXVzL9IBAA?oc=5
+Source: IPM Newsroom
+
+gpt-3.5-turbo:
+ Professor's name: Kofi Bazzell Smith  
+Position: First Black professor teaching manga in the US
+Summary: The article features UIUC graduate Kofi Bazzell Smith, who is set to become the first Black professor teaching manga in the US. It mentions a conversation with him about his latest and final exhibit at the Krannert Art Museum.
+
+gpt-4-turbo:
+ Professor's name: Kofi Bazzell-Smith
+Position: Manga Artist
+Summary: Kofi Bazzell-Smith, a UIUC graduate, is highlighted in the article as set to become the first Black professor in the U.S. teaching manga. The article discusses his involvement in a deep dive conversation about his latest and final exhibit at the Krannert Art Museum, marking a 
+significant milestone in his career and in the field of manga teaching in the U.S.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  25
+Title: UIUC Graduate to Become First Black Professor Teaching Manga in the U.S. - IPM Newsroom
+Published: 2024-04-03 07:00:00
+Link: https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vaXBtbmV3c3Jvb20ub3JnL3VpdWMtZ3JhZHVhdGUtdG8tYmVjb21lLWZpcnN0LWJsYWNrLXByb2Zlc3Nvci10ZWFjaGluZy1tYW5nYS1pbi10aGUtdS1zL9IBAA?oc=5
+Source: IPM Newsroom
+
+gpt-3.5-turbo:
+ Professor's name: TBA, position: First Black Professor Teaching Manga in the U.S., summary: The article mentions the appointment of a graduate from the University of Illinois at Urbana-Champaign (UIUC) as the first Black professor in the United States to teach Manga. 
+
+gpt-4-turbo:
+ professor's name: Not provided
+position: Not provided
+summary: The article does not mention any information about a professor or their position. It only discusses severe weather updates, city council decisions, federal funding for public transit, and various local interest stories in Illinois. 
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  26
+Title: U of I professor Ruby Mendenhall pours pain into writing as Urbana's new poet laureate | Illinois Public Media - WILL News - Illinois Public Media
+Published: 2024-03-28 07:00:00
+Link: https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd2lsbC5pbGxpbm9pcy5lZHUvMjFzdHNob3cvc3RvcnkvdS1vZi1pLXByb2Zlc3Nvci1ydWJ5LW1lbmRlbmhhbGwtcG91cnMtcGFpbi1pbnRvLXdyaXRpbmctYXMtdXJiYW5hcy1uZXctcG9ldC1sYXVyZWF0ZdIBAA?oc=5
+Source: WILL News - Illinois Public Media
+
+gpt-3.5-turbo:
+ Professor's name: Ruby Mendenhall, Position: Professor, Summary: Ruby Mendenhall, a professor at the University of Illinois (U of I), has been named Urbana's new poet laureate. She is known for pouring her pain into writing, highlighting her emotional depth and creativity in her poetry.
+
+gpt-4-turbo:
+ **Professor's name:** Ruby Mendenhall
+**Position:** Professor at the University of Illinois (U of I)
+**Summary:** Ruby Mendenhall, a professor at the University of Illinois, has been appointed as Urbane's new poet laureate. In her role, she focuses on expressing and addressing the complexities of emotion and social injustice through her poetry. Mendenhall's works primarily delve into 
+personal experiences and societal issues, aiming to invoke understanding and change.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  27
+Title: Expert advises eclipse watchers to get the best vantage point – are you ready? - University of Illinois Urbana-Champaign
+Published: 2024-03-26 07:00:00
+Link: https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbmV3cy5pbGxpbm9pcy5lZHUvdmlldy82MzY3LzEzOTk4NDI2MDLSAQA?oc=5
+Source: University of Illinois Urbana-Champaign
+
+gpt-3.5-turbo:
+ Professor's name: Leslie Looney, Position: Astronomy Professor at the University of Illinois Urbana-Champaign, Summary: Leslie Looney, an astronomy professor at the University of Illinois Urbana-Champaign and director of the Laboratory for Astronomical Imaging, discusses the significance of solar eclipses and shares viewing tips for the upcoming total solar eclipse occurring on April 8. He explains the different types of solar eclipses, the scientific predictions behind eclipses, what scientists study during solar eclipses, and offers advice on how to safely view the eclipse. Looney also mentions the unique opportunities provided by total solar eclipses and highlights the next total solar eclipse visible 
+in North America, emphasizing the importance of finding the best vantage point to witness totality.
+
+gpt-4-turbo:
+ Professor's name: Leslie Looney
+Position: Astronomy Professor at the University of Illinois Urbana-Champaign and Director of the Laboratory for Astronomical Imaging
+Summary: Leslie Looney discusses the importance of observing solar eclipses, specifically the total solar eclipse on April 8, and offers viewing advice. He explains the different phenomena observable during such an event, including the sun’s corona, and emphasizes the rarity and spectacular nature of total solar eclipses. Looney also explains how eclipses and their paths are predicted, what scientists study during these events, and how to safely view them. Additionally, he discusses related university activities and offers contact information for further engagement.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  28
+Title: UIUC faculty bringing data science to Chicago public schools - The Grainger College of Engineering
+Published: 2024-03-18 07:00:00
+Link: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vZ3JhaW5nZXIuaWxsaW5vaXMuZWR1L25ld3Mvc3Rvcmllcy82NTA5ONIBAA?oc=5
+Source: The Grainger College of Engineering
+
+gpt-3.5-turbo:
+ professor's name: Wade Fagen-Ulmschneider, position: Teaching Professor of Computer Science, and summary: Wade Fagen-Ulmschneider, along with 
+Karle Flanagan, has been involved in an initiative to promote data science education by conducting workshops and creating online resources. They have developed the DISCOVERY website to provide free data science education and support high school students' engagement with the subject. Their efforts aim to establish UIUC as a leader in data science education.
+
+gpt-4-turbo:
+ Professor's name: Wade Fagen-Ulmschneider, Karle Flanagan
+Position: Wade Fagen-Ulmschneider - Teaching Professor of Computer Science, Karle Flanagan - Teaching Associate Professor of Statistics        
+Summary: Wade Fagen-Ulmschneider and Karle Flanagan are actively involved in promoting data science education both to Chicago Public Schools and online through the DISCOVERY platform, aiming to make UIUC a leader in undergraduate data science education. They conducted workshops, developed a free educational web presence, and are working on integrating data science education into mainstream school curriculums, supported by grants and positive feedback from their initiatives.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  29
+Title: Nursing professor will document COVID-19 experiences in East St. Louis - UIC Today
+Published: 2024-03-06 08:00:00
+Link: https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdG9kYXkudWljLmVkdS9udXJzaW5nLXByb2Zlc3Nvci13aWxsLWRvY3VtZW50LWNvdmlkLTE5LWV4cGVyaWVuY2VzLWluLWVhc3Qtc3QtbG91aXMv0gEA?oc=5
+Source: UIC Today
+
+gpt-3.5-turbo:
+ The professor's name: Karen Flynn, 
+Position: Terrance and Karyn Holm Endowed Professor of Nursing,
+Summary: Karen Flynn, a nursing professor at UIC and the director of the Midwest Nursing History Research Center, received a grant from the National Endowment for the Humanities to document the experiences of East St. Louis residents during the COVID-19 pandemic. She will be collecting oral histories from senior citizens and first responders and facilitating content collection events with families to archive their narratives. The project aims to preserve cultural heritage and address structural inequalities highlighted by the pandemic's impact on the community.     
+
+gpt-4-turbo:
+ professor's name: Karen Flynn
+position: Terrance and Karyn Holm Endowed Professor of Nursing, Director of the UIC College of Nursing’s Midwest Nursing History Research Center
+summary: Karen Flynn received a grant from the National Endowment for the Humanities to create an archive documenting COVID-19 experiences in East St. Louis, working with residents including senior citizens, first responders, children, and teens. She aims to preserve their experiences 
+through oral histories and various content collection events, focusing on the theme of community care and resilience in response to the pandemic's impact, particularly on African Americans and under-resourced communities. The project will archive these narratives, making them accessible for the community and broader research purposes.
+
+----------------------------------------------------------------------------------------------------
+
+
+News number:  30
+Title: Artificial Intelligence Research - UVA Engineering
+Published: 2024-03-06 03:59:37
+Link: https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZW5naW5lZXJpbmcudmlyZ2luaWEuZWR1L2RlcGFydG1lbnQvY29tcHV0ZXItc2NpZW5jZS9yZXNlYXJjaC9hcnRpZmljaWFsLWludGVsbGlnZW5jZS1yZXNlYXJjaNIBAA?oc=5
+Source: UVA Engineering
+
+gpt-3.5-turbo:
+ Professor's name: Dr. Madhur Behl, Position: Associate Professor, Summary: Dr. Madhur Behl is an associate professor in the departments of Computer Science and Systems and Information Engineering at the University of Virginia. He conducts research in Robotics and Artificial Intelligence, and serves as the team principal of UVA's Cavalier Autonomous Racing team.
+
+gpt-4-turbo:
+ 1. Professor's name: Dr. Madhur Behl
+
+   Position: Associate Professor in the departments of Computer Science, and Systems and Information Engineering at the University of Virginia 
+
+   Summary: Dr. Madhur Behl conducts research in Robotics and Artificial Intelligence and leads the Cavalier Autonomous Racing team at UVA.    
+
+2. Professor's name: Ferdinando Fioretto
+
+   Position: Not specified
+
+   Summary: Ferdinado Fioretto specializes in machine learning, optimization, differential privacy, and fairness. His significant contributions have earned him multiple accolades including the Amazon Research Award and the NSF CAREER award.
+
+3. Professor's name: Li (full name not provided)
+
+   Position: Not specified
+
+   Summary: Li is dedicated to research in data mining and machine learning, focusing on graph mining, causal inference, and algorithmic fairness, with over 100 high-impact papers published and numerous prestigious recognitions.
+
+4. Professor's name: Chen-Yu Wei
+
+   Position: Assistant Professor in the Computer Science department at the University of Virginia
+
+   Summary: Chen-Yu Wei focuses on interactive decision-making and reinforcement learning, having previously been a postdoctoral associate at MIT.
+
+5. Professor's name: Aidong Zhang
+
+   Position: Not specified
+
+   Summary: Aidong Zhang works on developing diverse machine learning methodologies for interpretable and fair learning, with an emphasis on federated learning, generative AI, and large language models for scientific hypothesis generation. Dr. Zhang completed her PhD at the University 
+of Utah and was a postdoctoral associate at MIT's CSAIL.
+
+----------------------------------------------------------------------------------------------------
