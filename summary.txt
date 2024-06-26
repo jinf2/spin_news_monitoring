@@ -20,6 +20,9 @@ position: Assistant Professor
 summary: The specific contributions or involvement of Mohammed El-Kebir in the Future Faculty Fellows program are not detailed in the article. 
 His contact information is provided, indicating his affiliation with the Thomas M. Siebel Center for Computer Science at the University of Illinois.
 
+3.5:The number of professors is wrong
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -37,6 +40,9 @@ gpt-4-turbo:
  Professor's Name: Not applicable
 Position: Not applicable
 Summary: The article from The Seattle U Newsroom does not provide specific details about any professor. It appears to be a general notification about the faculty and staff directory at Seattle University, indicating that no articles are currently displayed from a possible total of 2458. The content primarily consists of search functionality for faculty, staff, and leadership but yields no results.
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -62,6 +68,10 @@ emphasized alignment with the university's Vision 2030 Global Strategy, which fo
 **position:** (Position not specified, affiliated with the University of Birmingham)
 **summary:** Linsday Avery expressed optimism about the outcomes of the new cohort of BRIDGE Seed Fund recipients and reflected on the achievements from the collaboration between the University of Illinois Urbana-Champaign and the University of Birmingham, such as joint publications and workshops.
 
+3.5:The number of professors is wrong
+4.0:The number of professors is wrong
+
+Because the format of each news item may be different, there may be gaps in the content obtained（Because there are no recipients in the content, 4.0 only appears in the text）
 ----------------------------------------------------------------------------------------------------
 
 
@@ -121,6 +131,9 @@ professor's name: Diane Beck
 position: Beckman researcher and psychology professor
 summary: Diane Beck collaborates with Ling Lee Chong in the Attention and Perception Lab studying the role of visual stimuli in scene understanding, specifically how humans make rapid visual predictions, contributing to broader applications in psychology and computer science.
 
+3.5:The number of professors is wrong
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 News number:  5
@@ -139,6 +152,9 @@ gpt-4-turbo:
 position: Professor of Kinesiology and Community Health, Director of the Disability and Movement Biomechanics Laboratory, College of Applied Health Sciences at the University of Illinois Urbana-Champaign, Affiliate Faculty Member at the Beckman Institute
 summary: Matthew Hanks has recently joined the Beckman Institute, bringing expertise from his role as a professor and director at the University of Illinois. His research focuses on shoulder health and function in manual wheelchair users, with an emphasis on physical activity's impact 
 on musculoskeletal development for healthy aging. Hanks collaborates with fellow professors at the Beckman Institute to study health and function changes in individuals with physical disabilities as they age. He was also recognized with the American Spinal Injury Association’s Vogel Award in 2020 for his contributions to pediatric spinal cord injury rehabilitation.
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -173,6 +189,9 @@ professor's name: Dakshita Khurana
 position: CS Professor at Illinois Grainger Engineering Computer Science
 summary: Dakshita Khurana's research under the proposal titled "Cryptography for the Quantum Age" explores the realms of securing cryptographic practices in anticipation of quantum computing advancements. Her work is critical in preparing for the security challenges that the quantum computing era is expected to bring. Recognized by the Google Research Scholar Program, her research is positioned to influence the development of robust cryptographic protocols that can withstand quantum-level threats. This recognition not only supports her research but emphasizes the importance of developing quantum-resistant cryptographic methods.
 
+3.5:The number of professors is wrong
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -193,6 +212,9 @@ job opportunities at the University of Illinois Urbana-Champaign, highlighting v
 positions. The university is noted for its high ranking among public research universities and its notable contributions to technology and innovation. Additionally, the article mentions the university's commitment to equity, diversity, and inclusion, and the various services it offers 
 to support the faculty, staff, and students.
 
+3.5:Correct
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -211,6 +233,8 @@ gpt-4-turbo:
 Position: Not provided in the text snippet.
 Summary: The article does not provide specific details on any professor's involvement, positions, or any other details other than mentioning that faculty from the University of Illinois at Urbana-Champaign (UIUC) participated in pro-Palestine protests on campus. Further details about the event or individual contributions were not shared.
 
+3.5:Correct
+4.0:Correct
 ----------------------------------------------------------------------------------------------------
 
 
@@ -244,6 +268,8 @@ gpt-4-turbo:
 
 These individuals are part of the 2024 Beckman Institute Postdoctoral Fellows cohort, engaging in cutting-edge multidisciplinary research.     
 
+3.5:The number of professors is wrong
+4.0:Correct
 ----------------------------------------------------------------------------------------------------
 
 
@@ -270,6 +296,9 @@ precedent across America, not protecting but rather intimidating and silencing.
 Professor's name: Anton Ford
 Position: Professor, University of Chicago
 Summary: Professor Anton Ford expressed a deep concern for the safety of the students involved in the encampment, highlighting the faculty’s presence and preparedness to get arrested alongside the students to prevent any harm due to potential raids.
+
+3.5:The number of professors is wrong
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -301,6 +330,9 @@ his Ph.D. from the University of Illinois in 1975 and returned in 1982 after a s
 - **Position:** Chemistry Professor Emeritus and Marvin T. Schmidt Professor of Chemistry Emeritus
 - **Summary:** Ken Suslick has been at the forefront of chemical sensing and sonochemistry since joining the University of Illinois in 1978. His innovations include developing an artificial optoelectronic “nose” for detecting harmful atmospheric substances. Suslick’s entrepreneurial ventures include being the CEO of Iridescent Sensors Inc. He has received several prestigious awards and is a fellow of multiple scientific societies including the American Chemical Society and the Royal Society of Chemistry.
 
+3.5:Correct
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -321,6 +353,8 @@ position: Associate Professor in Gender and Women’s Studies and Asian-American
 summary: Maryam Kashani is actively participating in a pro-Palestinian student protest at the University, discussing the hesitancy and risks faculty face when supporting such movements, especially those without tenure. She mentions the fear of retaliation affecting junior faculty's willingness to support protesting students and underscores the security that tenure provides, allowing her to advocate openly for student causes. 
 Kashani reflects on past repercussions faced by faculty due to their public stances on sensitive issues, particularly referencing the case of Steven Salaita, whose employment was terminated over his comments about the Israeli-Palestinian conflict. Despite potential risks, Kashani feels a strong responsibility to support student safety and education.
 
+3.5:Correct
+4.0:Correct
 ----------------------------------------------------------------------------------------------------
 
 
@@ -338,6 +372,8 @@ gpt-4-turbo:
 Position: Anthropology Professor at Indiana University
 Summary: Sarah Phillips, during a protest at Indiana University, reacted instinctively to protect her students' free speech rights against heavily armed riot police. Despite being peaceful, she was arrested and charged with criminal trespass. The recent events involved her and other faculty members as they stood in solidarity with student protesters, advocating for their rights and pushing against university policies deemed restrictive. Phillips, among others, has been restricted from campus property and faces potential employment consequences for her actions in defense of student expression and protest.
 
+3.5:The number of professors is wrong
+4.0:The number of professors is wrong
 ----------------------------------------------------------------------------------------------------
 
 
@@ -378,6 +414,8 @@ Position: Professor of physics
 Summary: Paul Selvin specializes in fluorescence microscopy and has pioneered numerous imaging techniques such as LRET, FRET, and FIONA. These 
 techniques have advanced the understanding of DNA properties, mutant nervous systems, molecular motors, and neuronal signal transmission. His contributions have been widely recognized, earning him fellowship in the American Physical Society.
 
+3.5:The number of professors is wrong
+4.0:Correct
 ----------------------------------------------------------------------------------------------------
 
 
@@ -413,6 +451,8 @@ for the future, marking the shift toward more collaborative relations with the G
 - **Summary:** Professor Robin Mason commented on the achievements of the BRIDGE Alliance under the partnership, noting the outstanding results generated from research collaborations that address global issues. He emphasized the nurturing and development of early-career researchers and the strengthening of academic excellence at both universities through the alliance. Looking forward, Prof. Mason is optimistic about the next 
 five years of the partnership and the impacts they aim to achieve globally.
 
+3.5:The number of professors is wrong
+4.0:Correct
 ----------------------------------------------------------------------------------------------------
 
 
@@ -440,6 +480,9 @@ gpt-4-turbo:
 - **Professor's name:** Stephen Taylor
 - **Position:** Music Professor at University of Illinois at Urbana-Champaign
 - **Summary:** Stephen Taylor joined forces with Smitha Vishveshwara and Latrelle Bright to launch CASCaDe, after their successful collaboration on "Quantum Voyagers." Taylor's integration of music into the performance has been highlighted as adding depth and dimension to the storytelling, helping to establish a dynamic interaction between the elements of the performance. Taylor's contributions are positioned as crucial to evolving the performative experience in the collective's projects.
+
+3.5:The number of professors is wrong
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -499,6 +542,9 @@ a 2023 AAAS Fellow.
 - **Position:** Crop Sciences and NRES Professor, an ecologist at the U.S. Department of Agriculture’s Agricultural Research Service
 - **Summary:** Martin Williams has developed models to mitigate climate and weed-related risks to food production. His research aims to enhance resilience in crop management and is acknowledged by the AAAS for his contributions to weed science and crop production.
 
+3.5:Correct
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -518,6 +564,9 @@ gpt-4-turbo:
 position: Professor at the University of Illinois
 summary: Dr. William Patterson, also known as Maurice "Reesy" Patterson, was honored posthumously by the Champaign Urbana Schools Foundation as a distinguished alumnus for his significant contributions to local communities through education and cultural integration. He initiated programs that introduced STEM education to under-resourced neighborhoods and created Ghetto Genius, which combines Hip-Hop music with STEM subjects. 
 His efforts and leadership qualities made a lasting impact, inspiring both young individuals and adults within his community.
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -547,6 +596,9 @@ neuroscience, and behavior. Her Guggenheim project aims to develop a conceptual 
 - **Summary**: Professor Paul Hardin Kapp, also a recipient of the 2024 Guggenheim Fellowship, focuses on historic preservation. His scholarly 
 works include multiple publications on the architectural and cultural heritage of the southern United States. Kapp's upcoming project, funded by his Guggenheim Fellowship, entitled “Popular Iconoclasm in the Public Square,” will explore how acts of iconoclasm influence and reshape public perceptions and interactions with historic and monumental public spaces. Through his extensive academic and field experiences, Kapp has contributed significantly to education and advisory roles in the preservation sector.
 
+3.5:Correct
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -567,6 +619,9 @@ gpt-4-turbo:
 position: Director of Translational Research at the Cancer Center at Illinois and Medical Director of Surgical Strategy and Innovation at Carle Health
 summary: Dr. Claudius Conrad has recently joined Carle Illinois College of Medicine, bringing extensive expertise in minimally invasive surgical oncology. His work focuses on innovative surgical and diagnostic technologies aimed at minimizing trauma for cancer patients. Dr. Conrad is also involved in mentoring medical students and fostering collaborative research and innovation through his leadership roles at Carle Health and the Cancer Center at Illinois. Additionally, he explores the intersections of music and medicine, looking into music's therapeutic potential in clinical settings. His previous affiliations include Harvard Medical School, Massachusetts General Hospital, and Boston University School of 
 Medicine.
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -627,6 +682,9 @@ Professor's Name: Luke Olson
 Position: CS Professor
 Summary: Luke Olson has been recognized with the 2024 campus award for Excellence in Graduate & Professional Teaching, highlighting his exceptional skills and dedication to teaching at the graduate level.
 
+3.5:The number of professors is wrong
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -643,6 +701,9 @@ gpt-4-turbo:
  professor's name: Nancy M. Amato
 position: Head, Department of Computer Science, Abel Bliss Professor of Engineering
 summary: Nancy M. Amato, in her role as Head of the Department of Computer Science at the University of Illinois, participates in celebrating the achievements of students, faculty, and staff in areas ranging from academic performance to leadership and research. The celebration highlights various contributions within the field of computer science, recognizing both educational progress and practical applications in industry.   
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -662,6 +723,9 @@ gpt-4-turbo:
  professor's name: Dr. William Patterson
 position: Professor at the University of Illinois
 summary: Dr. William Patterson inspired Miquel Smoot and others in Champaign by involving them in his organization "Ghetto Genius," which educates youth on STEM. Smoot met Dr. Patterson while tinkering with remote control cars in a store, and this encounter significantly impacted his career path and life philosophy. With Patterson's influence, Smoot built an [remote control] track and has pursued a new life in Arizona working as a cement truck operator, applying skills he learned from his mentor.
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -683,6 +747,9 @@ Position: Manga Artist
 Summary: Kofi Bazzell-Smith, a UIUC graduate, is highlighted in the article as set to become the first Black professor in the U.S. teaching manga. The article discusses his involvement in a deep dive conversation about his latest and final exhibit at the Krannert Art Museum, marking a 
 significant milestone in his career and in the field of manga teaching in the U.S.
 
+3.5:Correct
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -699,6 +766,9 @@ gpt-4-turbo:
  professor's name: Not provided
 position: Not provided
 summary: The article does not mention any information about a professor or their position. It only discusses severe weather updates, city council decisions, federal funding for public transit, and various local interest stories in Illinois. 
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -718,6 +788,9 @@ gpt-4-turbo:
 **Summary:** Ruby Mendenhall, a professor at the University of Illinois, has been appointed as Urbane's new poet laureate. In her role, she focuses on expressing and addressing the complexities of emotion and social injustice through her poetry. Mendenhall's works primarily delve into 
 personal experiences and societal issues, aiming to invoke understanding and change.
 
+3.5:Correct
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -735,6 +808,9 @@ gpt-4-turbo:
  Professor's name: Leslie Looney
 Position: Astronomy Professor at the University of Illinois Urbana-Champaign and Director of the Laboratory for Astronomical Imaging
 Summary: Leslie Looney discusses the importance of observing solar eclipses, specifically the total solar eclipse on April 8, and offers viewing advice. He explains the different phenomena observable during such an event, including the sun’s corona, and emphasizes the rarity and spectacular nature of total solar eclipses. Looney also explains how eclipses and their paths are predicted, what scientists study during these events, and how to safely view them. Additionally, he discusses related university activities and offers contact information for further engagement.
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -754,6 +830,9 @@ gpt-4-turbo:
 Position: Wade Fagen-Ulmschneider - Teaching Professor of Computer Science, Karle Flanagan - Teaching Associate Professor of Statistics        
 Summary: Wade Fagen-Ulmschneider and Karle Flanagan are actively involved in promoting data science education both to Chicago Public Schools and online through the DISCOVERY platform, aiming to make UIUC a leader in undergraduate data science education. They conducted workshops, developed a free educational web presence, and are working on integrating data science education into mainstream school curriculums, supported by grants and positive feedback from their initiatives.
 
+3.5:Correct
+4.0:Correct
+
 ----------------------------------------------------------------------------------------------------
 
 
@@ -772,7 +851,10 @@ gpt-4-turbo:
  professor's name: Karen Flynn
 position: Terrance and Karyn Holm Endowed Professor of Nursing, Director of the UIC College of Nursing’s Midwest Nursing History Research Center
 summary: Karen Flynn received a grant from the National Endowment for the Humanities to create an archive documenting COVID-19 experiences in East St. Louis, working with residents including senior citizens, first responders, children, and teens. She aims to preserve their experiences 
-through oral histories and various content collection events, focusing on the theme of community care and resilience in response to the pandemic's impact, particularly on African Americans and under-resourced communities. The project will archive these narratives, making them accessible for the community and broader research purposes.
+through oral histories and various content collection events, focusing on the theme of community care and resilience in response to the pandemic's impact, particularly on African Americans and under-resourced communities. The project will archive 
+
+3.5:Correct
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
 
@@ -817,5 +899,8 @@ gpt-4-turbo:
 
    Summary: Aidong Zhang works on developing diverse machine learning methodologies for interpretable and fair learning, with an emphasis on federated learning, generative AI, and large language models for scientific hypothesis generation. Dr. Zhang completed her PhD at the University 
 of Utah and was a postdoctoral associate at MIT's CSAIL.
+
+3.5:The number of professors is wrong
+4.0:Correct
 
 ----------------------------------------------------------------------------------------------------
