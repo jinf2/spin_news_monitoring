@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-openai.api_key='sk-proj-1DCgp9acoWkhtGFy0citT3BlbkFJlA4riT3ycrSYjY3eE53Z'
+openai.api_key=''
 
 def extract_GPT_3(article_content):
     # prompt = f" Analyze the mentioned Professor from this link. \n\n{article_content} The result will be presented with the professor's name, position and a summary of the professor's content related to the news."
@@ -66,6 +66,7 @@ def main():
         else:
             break
         content=get_content(article.link)
+        print(content)
         news_info = f"Title: {article.title}, Published: {article.published}, Link: {article.link},Source: {article.source['title']}, Content:{content}"
         professor_info_3 = extract_GPT_3(news_info)
         professor_info_4 = extract_GPT_4(news_info)
