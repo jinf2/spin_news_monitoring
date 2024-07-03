@@ -38,16 +38,6 @@ def extract_GPT_NP(article_content): # only extract professor name and position
     )
     return response.choices[0].message['content'].strip()
 
-def extract_GPT_diff(article_content):
-    prompt = f"Extract the name, position, and a summary of the content related to the professor from the following article.The result will be presented with  professor's name: , position: , and summary: .\n\n{article_content}"
-    response = openai.ChatCompletion.create(
-        model="gpt-4-turbo",
-        messages=[{"role": "system", "content": "Extract professor information from news articles."},
-                  {"role": "user", "content": prompt}],
-        max_tokens=1000
-    )
-    return response.choices[0].message['content'].strip()
-
 def get_content(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
