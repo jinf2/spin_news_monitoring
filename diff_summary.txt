@@ -1,0 +1,25 @@
+https://theconversation.com/should-ai-be-permitted-in-college-classrooms-4-scholars-weigh-in-212176
+
+- **Professor's name:** Nicholas Tampio
+- **Position:** Professor of Political Science
+- **Summary:** Nicholas Tampio criticizes the use of ChatGPT by students for writing papers in higher education, emphasizing the importance of 
+intellectual engagement and original thought in learning. He points out the risks of AI-assisted plagiarism and how reliance on AI tools can undermine the learning process meant to cultivate critical thinking and effective communication skills needed in professional environments.      
+
+#### Auburn University
+- **Professor's name:** Asim Ali
+- **Position:** Instructor of Information Systems Management
+- **Summary:** Asim Ali discusses the integration of AI tools like ChatGCTX into his courses to enhance learning while maintaining academic integrity. He has adapted his teaching methods to help students understand both the capabilities and limitations of AI in academic and professional settings, fostering a practical and critical approach to technology use.
+
+#### University of Maryland, Baltimore County
+- **Professor's name:** Patricia A. Young
+- **Position:** Professor of Literacy, Culture and Instructional Design & Technology
+- **Summary:** Patricia A. Young explores the implications of AI on education and literacy. She focuses on the potential negative impacts of AI if it's used without critical oversight, such as fostering a generation of students who may lack essential literacy and critical thinking skills due to over-reliance on technology.
+
+#### University of Richmond
+- **Professor's name:** Shital Thekdi
+- **Position:** Associate Professor of Analytics and Operations
+- **Summary:** Shital Thekdi emphasizes the necessity for students to understand and critically assess AI tools as they become integrated into 
+business and society. She advocates for an educational approach that not only incorporates AI technology but also highlights the importance of 
+maintaining human values and ethical considerations in AI usage.
+----------------------------------------------------------------------------------------------------
+

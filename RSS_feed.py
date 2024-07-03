@@ -28,6 +28,26 @@ def extract_GPT_4(article_content):
     )
     return response.choices[0].message['content'].strip()
 
+def extract_GPT_NP(article_content): # only extract professor name and position
+    prompt = f"Extract the University of Illinois Urbana-Champaign professor's name and position in article. And must follow this format 'professor; position' Be sure not to return the word professor in the name. \n\n{article_content}, if there is not result or No information is availableo, just only say 'no'"
+    response = openai.ChatCompletion.create(
+        model="gpt-4-turbo",
+        messages=[{"role": "system", "content": "Extract professor information from news articles."},
+                  {"role": "user", "content": prompt}],
+        max_tokens=500
+    )
+    return response.choices[0].message['content'].strip()
+
+def extract_GPT_diff(article_content):
+    prompt = f"Extract the name, position, and a summary of the content related to the professor from the following article.The result will be presented with  professor's name: , position: , and summary: .\n\n{article_content}"
+    response = openai.ChatCompletion.create(
+        model="gpt-4-turbo",
+        messages=[{"role": "system", "content": "Extract professor information from news articles."},
+                  {"role": "user", "content": prompt}],
+        max_tokens=1000
+    )
+    return response.choices[0].message['content'].strip()
+
 def get_content(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -35,7 +55,13 @@ def get_content(url):
     author = author['content'] if author else 'No author' # check the author exist or not
     paragraphs = soup.find_all('p') # returns a list of all matching tags(the main textual content of the webpage)
     content = '\n'.join([p.text for p in paragraphs])# concatenates the text strings into a single string, with each paragraph separated by a newline character
-    return content
+    lists = soup.find_all(['ul', 'ol']) #Extract bulleted and numbered lists(unordered list and ordered list)
+    list_content = []
+    for line in lists:
+        items = line.find_all('li') #find all list item
+        list_content.append('\n'.join([f"{item.text}" for item in items]))
+    full_content = content+'\n\n'+'\n\n'.join(list_content)
+    return full_content
 
 def main():
     query = 'uiuc%20professor'
@@ -66,12 +92,24 @@ def main():
         else:
             break
         content=get_content(article.link)
-        print(content)
+        # print(content)
         news_info = f"Title: {article.title}, Published: {article.published}, Link: {article.link},Source: {article.source['title']}, Content:{content}"
-        professor_info_3 = extract_GPT_3(news_info)
-        professor_info_4 = extract_GPT_4(news_info)
-        print("gpt-3.5-turbo:\n",professor_info_3,"\n")
-        print("gpt-4-turbo:\n",professor_info_4,"\n")
+        #Ask to extract only professor name/positions.
+        prof_NP=extract_GPT_NP(news_info)
+        print("professor name and position:")
+        print(prof_NP)
+        if prof_NP !="no":
+            file_path = "pro_NPinfo.txt"
+            with open(file_path, "a", encoding="utf-8") as file:
+                file.write(prof_NP + "\n")
+        #Get professor information by GPT_3.5
+        # professor_info_3 = extract_GPT_3(news_info)
+        # print("gpt-3.5-turbo:")
+        # print(professor_info_3)
+        #Get professor information by GPT_4
+        # professor_info_4 = extract_GPT_4(news_info)
+        # print("gpt-4-turbo:")
+        # print(professor_info_4)
         print("----------------------------------------------------------------------------------------------------")
     # Check what is in news_bytime
     # at=3

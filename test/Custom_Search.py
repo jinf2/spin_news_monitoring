@@ -4,6 +4,10 @@ from googleapiclient.discovery import build
 from datetime import datetime, timedelta
 import re
 
+GN_API = ''
+CSE_ID = ''
+openai.api_key=''
+
 def get_news(query, num_results=3, time_range=None):
     news_service = build('customsearch', 'v1', developerKey=GN_API)
     search_rest = {
@@ -34,23 +38,23 @@ def main():
     # query = 'UIUC -word'
 
     ## eg. for one year
-    # current_time = datetime.today()
-    # past_time = current_time - timedelta(days=365)
-    # date = f'y{current_time.year - past_time.year}'
+    current_time = datetime.today()
+    past_time = current_time - timedelta(days=365)
+    date = f'y{current_time.year - past_time.year}'
     ## eg. for one week
     # date = 'w1' 
     ## eg. for 3 days
     # date = 'd3' 
     
-    articles = get_news(query, time_range=None)
+    articles = get_news(query, time_range=date)
 
     for article in articles:
         title = article.get('title')
         snippet = article.get('snippet')
         link = article.get('link')
         print(f"\nTitle: {title}\n Snippet: {snippet}\n Link: {link}\n")
-        news_info = f"Link: {link}"
 
+        news_info = f"Link: {link}"
         professor_info = extract_GPT(news_info)
         print(f"Professor Info:\n",professor_info)
         
